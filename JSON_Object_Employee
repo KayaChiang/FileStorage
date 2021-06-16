@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Employee1":{
         "firstname": "Kevin",
         "height": 180,
         "email": "kevin@gmail.com",
@@ -18,7 +18,7 @@
         ]
     },
 
-    {
+    "Employee2":{
         "firstname": "Mary",
         "height": 170,
         "email": "mary@gmail.com",
@@ -36,4 +36,4 @@
             "Audi"
         ]
     }
-]
+}
